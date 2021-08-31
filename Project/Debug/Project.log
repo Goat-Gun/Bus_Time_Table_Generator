@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\user\Desktop\c\main.c(522,1): warning C4133: '초기화 중': 'headp_pointer'과(와) 'headr_pointer' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\c\main.c(525,1): warning C4133: '초기화 중': 'headp_pointer'과(와) 'headc_pointer' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\c\main.c(697,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\c\main.c(805,41): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\c\main.c(807,12): warning C4047: 'return': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\user\Desktop\c\main.c(847,25): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\c\main.c(867,25): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\c\main.c(947,18): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[34]'과(와) 다릅니다.
+C:\Users\user\Desktop\c\main.c(947,9): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\c\main.c(948,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\user\Desktop\c\main.c(950,36): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[34]'과(와) 다릅니다.
+C:\Users\user\Desktop\c\main.c(950,27): warning C4024: 'fopen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\c\main.c(1030,6): warning C4101: 'plateNo' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\c\main.c(839): warning C4715: 'returnHeadD': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Desktop\c\main.c(941): warning C4172: 지역 변수 또는 임시: finalPath의 주소를 반환하고 있습니다.
+  Project.vcxproj -> C:\Users\user\Desktop\c\Project\Debug\Project.exe
